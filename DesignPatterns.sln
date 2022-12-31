@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDesignPattern", "Ob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationDesignPattern", "NotificationDesignPattern\NotificationDesignPattern.csproj", "{C4227226-CD63-4A8C-AF9E-23E5C0B59F66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.csproj", "{BED1C4EB-7CDC-4773-82D4-BB72845E7067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyDesignPattern", "StrategyDesignPattern\StrategyDesignPattern.csproj", "{BED1C4EB-7CDC-4773-82D4-BB72845E7067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicRuleEngine", "DynamicRuleEngine\DynamicRuleEngine.csproj", "{31CCB8A9-9DC6-4910-B581-267BCA85ABEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicRuleEngine", "DynamicRuleEngine\DynamicRuleEngine.csproj", "{31CCB8A9-9DC6-4910-B581-267BCA85ABEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandDesignPattern", "CommandDesginPattern\CommandDesignPattern.csproj", "{A3E5FE29-6EB9-499A-8941-48272879C1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationDesignPattern", "SpecificationDesignPattern\SpecificationDesignPattern.csproj", "{A4C292EB-FEEE-411F-AD7A-CFC951819867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{31CCB8A9-9DC6-4910-B581-267BCA85ABEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31CCB8A9-9DC6-4910-B581-267BCA85ABEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31CCB8A9-9DC6-4910-B581-267BCA85ABEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E5FE29-6EB9-499A-8941-48272879C1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E5FE29-6EB9-499A-8941-48272879C1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E5FE29-6EB9-499A-8941-48272879C1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E5FE29-6EB9-499A-8941-48272879C1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C292EB-FEEE-411F-AD7A-CFC951819867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C292EB-FEEE-411F-AD7A-CFC951819867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C292EB-FEEE-411F-AD7A-CFC951819867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C292EB-FEEE-411F-AD7A-CFC951819867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
